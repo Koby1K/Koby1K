@@ -48,5 +48,6 @@ ABOUT ME (Koby1K)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koby1K&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
       
  
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<br><strong>Let's Lighten the Mood with a Joke! 👇</strong>   
+<br><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
