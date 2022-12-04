@@ -9,7 +9,7 @@ ABOUT ME (Koby1K)
    <html>
     <body>
       <div align="center">
-  <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="550" height="275"/>
+  <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="500" height="250"/>
 </div><br>
 <br>I am a Full Stack Developer/Cybersecurity Enthusiast from the USA.<br>
       
