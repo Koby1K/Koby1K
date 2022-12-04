@@ -14,7 +14,7 @@ ABOUT ME (Koby1K)
       
 <ul>
 <br><li><strong>I have attained a Bachelor's Degree in Computer Information Systems & a Minor in Cybersecurity from the <a href="https://www.una.edu/">University of North Alabama</a>. :notebook_with_decorative_cover:  </strong></li><br>
-<li>I am currently looking for a job as a software engineer or database manager.</li><br>
+<li>I am currently looking for a job in any field associated w/ CIS & Cybersecurity (preferably Software Engineering or Database Management).</li><br>
 <li>:hammer_and_wrench: Languages and Tools : <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
