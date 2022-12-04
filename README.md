@@ -40,9 +40,9 @@ ABOUT ME (Koby1K)
           📧: ikoby662@gmail.com <br>
 </ul>
       
-    <ul>
-      <br> <li> ![Jokes Card](https://readme-jokes.vercel.app/api) </li>
-      </ul> <br>
+    
+      ![Jokes Card](https://readme-jokes.vercel.app/api) </li>
+      
 
    
  ### :fire: My Stats: 
