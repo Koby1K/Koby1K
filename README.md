@@ -39,6 +39,11 @@ ABOUT ME (Koby1K)
   </a> </li><br>
           📧: ikoby662@gmail.com <br>
 </ul>
+      
+    <ul>
+      <br> <li> ![Jokes Card](https://readme-jokes.vercel.app/api) </li>
+      </ul> <br>
+
    
  ### :fire: My Stats: 
     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Koby1K)](https://git.io/streak-stats)
