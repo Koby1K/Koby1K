@@ -51,4 +51,4 @@ ABOUT ME (Koby1K)
  
 
 <br><strong>Let's Lighten the Mood with a Joke! 👇</strong>   
-<br><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="333" height="333"/>
+<br><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="350" height="350"/>
