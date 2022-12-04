@@ -41,7 +41,7 @@ ABOUT ME (Koby1K)
 </ul>
       
     
-      ![Jokes Card](https://readme-jokes.vercel.app/api) </li>
+      ![Jokes Card](https://readme-jokes.vercel.app/api) 
       
 
    
