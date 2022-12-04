@@ -38,12 +38,12 @@ ABOUT ME (Koby1K)
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> </li><br>
           📧: ikoby662@gmail.com <br>
-</ul>
+</ul><br>
    
    
-!-- ### :fire: My Stats: 
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Koby1K)](https://git.io/streak-stats)
---! 
+### :fire: My Stats: 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Koby1K)](https://git.io/streak-stats)
+
       
 ### ✡️ Top Languages: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koby1K&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
