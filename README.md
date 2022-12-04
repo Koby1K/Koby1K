@@ -5,7 +5,7 @@ ABOUT ME (Koby1K)
 </div>
 
 <h1>Hello Everyone, My Name is Koby Ingram :v:<h1>
-  <h2><em>Introduction:</em><h2>
+  <h2><em>Introduction: A Little Background</em><h2>
    <html>
     <body>
       <div align="center">
