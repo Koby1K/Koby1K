@@ -29,7 +29,9 @@ ABOUT ME (Koby1K)
 <br><li>TECH STACKS: (I'm comfortable with) </li><br>
 </div></li><br>
       
-<li>Contact Me: </li><br>
+<li>Contact Me: <a href="https://www.linkedin.com/in/koby-ingram-273a531b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> </li><br>
 </ul>
    
  ### :fire: My Stats: 
