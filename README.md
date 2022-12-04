@@ -32,7 +32,7 @@ ABOUT ME (Koby1K)
   <img src="https://cdn.landly.page/uploaded/45794d75-e02d-49fe-81df-7703c5da3214.jpg" title="MERN" alt="MERN Stack" width="125" height="125"/>
 </div></li><br>
       
-<li>Contact Me:   <a href="https://www.linkedin.com/in/koby-ingram-273a531b7/">
+<li>Contact Me:   <a href="https://www.linkedin.com/in/koby-ingram-273a531b7/" width-"50" height"50">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> </li><br>
           📧: ikoby662@gmail.com <br>
