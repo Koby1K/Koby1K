@@ -25,8 +25,8 @@ ABOUT ME (Koby1K)
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://www.php.net/images/logos/new-php-logo.png" title="Python" **alt="Python Logo" width="40" height="40"/>
-  <img src="https://staging.python.org/static/community_logos/python-logo-master-v3-TM.png" title="PHP" **alt="PHP Logo" width="40" height="40"/><br>
+  <img src="https://www.php.net/images/logos/new-php-logo.png" title="PHP" **alt="PHP Logo" width="40" height="40"/>
+  <img src="https://staging.python.org/static/community_logos/python-logo-master-v3-TM.png" title="Python" **alt="Python Logo" width="40" height="40"/><br>
   
 <br><li>TECH STACKS: (I'm comfortable with) </li><br>
   <img src="https://assets.hongkiat.com/uploads/mean-vs-lamp-stacks/01-lamp-stack-tech-clouds.jpg?v2" title="LAMP" alt="LAMP Stack" width="125" height="125"/>
