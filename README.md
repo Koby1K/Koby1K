@@ -1,4 +1,5 @@
 ABOUT ME (Koby1K)
+<img src="https://komarev.com/ghpvc/?username=Koby1K&style=flat-square&color=blue" alt=""/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif" width="100"/>
 </div>
