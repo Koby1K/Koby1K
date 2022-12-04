@@ -39,14 +39,14 @@ ABOUT ME (Koby1K)
   </a> </li><br>
           📧: ikoby662@gmail.com <br>
 </ul>
-      
-    
-      ![Jokes Card](https://readme-jokes.vercel.app/api) 
-      
-
+   
    
  ### :fire: My Stats: 
     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Koby1K)](https://git.io/streak-stats)
 
  ### ✡️ Top Languages: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koby1K&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+      
+ 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
