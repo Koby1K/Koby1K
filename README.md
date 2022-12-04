@@ -1,7 +1,7 @@
 ABOUT ME (Koby1K)
 <br><img src="https://komarev.com/ghpvc/?username=Koby1K&style=flat-square&color=blue" alt=""/>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif" width="350" height="350"/>
 </div>
 
 <h1>Hello Everyone, My Name is Koby Ingram :v:<h1>
@@ -9,7 +9,7 @@ ABOUT ME (Koby1K)
    <html>
     <body>
       <div align="center">
-  <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="500" height="250"/>
+  <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="350" height="350"/>
 </div><br>
 <br>I am a Full Stack Developer/Cybersecurity Enthusiast from the USA.<br>
       
