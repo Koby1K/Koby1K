@@ -27,9 +27,9 @@ ABOUT ME (Koby1K)
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/><br>
   
 <br><li>TECH STACKS: (I'm comfortable with) </li><br>
-  <img src="https://assets.hongkiat.com/uploads/mean-vs-lamp-stacks/01-lamp-stack-tech-clouds.jpg?v2" title="LAMP" alt="LAMP Stack" width="40" height="40"/>
-  <img src="https://massivemarvel.com/images/Mean.jpg" title="MEAN" alt="MEAN Stack" width="40" height="40"/>
-  <img src="https://cdn.landly.page/uploaded/45794d75-e02d-49fe-81df-7703c5da3214.jpg" title="MERN" alt="MERN Stack" width="40" height="40"/>
+  <img src="https://assets.hongkiat.com/uploads/mean-vs-lamp-stacks/01-lamp-stack-tech-clouds.jpg?v2" title="LAMP" alt="LAMP Stack" width="125" height="125"/>
+  <img src="https://massivemarvel.com/images/Mean.jpg" title="MEAN" alt="MEAN Stack" width="125" height="125"/>
+  <img src="https://cdn.landly.page/uploaded/45794d75-e02d-49fe-81df-7703c5da3214.jpg" title="MERN" alt="MERN Stack" width="125" height="125"/>
 </div></li><br>
       
 <li>Contact Me:   <a href="https://www.linkedin.com/in/koby-ingram-273a531b7/">
